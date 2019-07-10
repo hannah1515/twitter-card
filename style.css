@@ -1,0 +1,36 @@
+*{
+  margin:0;
+  padding:20;
+  box-sizing:border-box;
+}
+.info{
+  display: inline-block;
+  width:70%
+}
+.profile-pic{
+  display: inline-block;
+}
+p{
+  padding: 10px
+}
+/* .p1{
+  border:
+  background-color:
+  margin:
+  padding:
+}
+.p2{
+
+} */
+
+
+section{
+  background-color: pink;
+}
+
+img{
+  Width: 200px;
+  height: 200px
+  object-fit: cover;
+  border-radius: 50%;
+}
